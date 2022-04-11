@@ -1,9 +1,9 @@
 
 spring:
   datasource:
-    password:Halkbank01/
+    password: Halkbank01/
     url: jdbc:mysql://localhost:3306/serverdb
-    username:root
+    username: root
   jpa:
     hibernate:
       ddl-auto: create
